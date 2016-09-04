@@ -7,3 +7,4 @@
 * [Usability.gov](http://www.usability.gov/)
 * [Federal Plain Language Guidelines](http://www.plainlanguage.gov/)
 * [Health Literacy Online: 2nd Edition](http://health.gov/healthliteracyonline/)
+* [18F Content Guide](https://pages.18f.gov/content-guide/)
